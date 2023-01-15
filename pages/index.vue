@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-slate-600 h-screen grid content-center justify-item-center">
+  <div class=" h-screen grid content-center justify-item-center overflow-auto">
     <InputCard />
   </div>
 </template>
+<script setup></script>
